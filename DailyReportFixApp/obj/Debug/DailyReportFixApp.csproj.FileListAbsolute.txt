@@ -1,0 +1,11 @@
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\bin\Debug\DailyReportFixApp.exe.config
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\bin\Debug\DailyReportFixApp.exe
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\bin\Debug\DailyReportFixApp.pdb
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.csproj.AssemblyReference.cache
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.Form1.resources
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.Properties.Resources.resources
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.csproj.GenerateResource.cache
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.csproj.CoreCompileInputs.cache
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.exe
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.pdb
+C:\Users\Virgiliu\source\repos\DailyReportFixApp\DailyReportFixApp\obj\Debug\DailyReportFixApp.csproj.ResolveComReference.cache
