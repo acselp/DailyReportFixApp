@@ -2,6 +2,7 @@
 using System.Data;
 using System.Linq;
 using System.Windows.Forms;
+using System.Threading.Tasks;
 
 namespace DailyReportFixApp
 {
@@ -68,6 +69,7 @@ namespace DailyReportFixApp
             int nrLines = str.Split('\n').Length - 2;
             string[][] table = new string[nrLines][];
             int i, j = 0, apaSum = 0, gunoiSum = 0;
+            MessageBox mb;
 
             progressBar.Value = 25;
 
@@ -168,7 +170,11 @@ namespace DailyReportFixApp
             ex.WriteFile(nrLines, 6, Convert.ToString(gunoiSum));
             ex.WriteFile(nrLines, 7, Convert.ToString(apaSum + gunoiSum));
 
+
             progressBar.Value = 100;
+            Task.Delay(500);
+            MessageBox.Show("Fisierul a fost procesat cu succes.");
+            progressBar.Value = 0;
             Cursor.Current = Cursors.Default;
         }
     }
