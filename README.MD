@@ -1,1 +1,1 @@
-This is the readme file.
+This app splits text from .txt file in words and add it into an Excel Worksheet in the same form(columns and rows). It was made for an office worker to make his work easier, he had to copy one by one word and place it in an excel, but now this app does it for him. 
